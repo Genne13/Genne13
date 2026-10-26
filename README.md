@@ -5,6 +5,58 @@
 
 # `VISH//SYS`
 
+
+<h2 align="center"> &gt; ABOUT_ME.exe </h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=00F5D4&center=true&vCenter=true&width=600&lines=%24+whoami;%24+Vishvesh+Raj+Gupta;%24+cat+%2Fetc%2Fdeveloper.conf;%24+Computer+Science+%7C+AI;%24+Initializing+GenAI+learning+track..." alt="Terminal typing animation"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `IDENTITY.log`
+
+```text
+NAME       : Vishvesh Raj Gupta
+INSTITUTE  : IIIT Nagpur
+BRANCH     : CSE (AI)
+SESSION    : 2025–2029
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `INTERESTS.log`
+
+```text
+01 > Machine Learning
+02 > Generative AI
+03 > LLMs and RAG
+04 > Cybersecurity
+05 > Computer Science
+```
+
+</td>
+</tr>
+</table>
+
+### `CURRENT_DIRECTIVES`
+
+- [x] Learn programming fundamentals
+- [x] Build web development projects
+- [ ] Strengthen machine learning foundations
+- [ ] Build practical LLM and RAG applications
+- [ ] Deploy projects and document experiments
+
+<p align="center">
+  <code>LEARN → EXPERIMENT → BUILD → IMPROVE</code>
+</p>
+
+
 **COMPUTER SCIENCE × ARTIFICIAL INTELLIGENCE**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=650&color=00F5D4&center=true&vCenter=true&width=650&lines=%3E+Booting+VISH%2F%2FSYS...;%3E+Loading+AI+development+modules...;%3E+Exploring+LLMs+%26+Generative+AI;%3E+Building+systems.+Learning+continuously._" alt="Animated terminal boot sequence"/>
