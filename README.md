@@ -3,10 +3,16 @@
 
 <img src="assets/vish-terminal.png" width="100%" alt="VISH cyberpunk terminal portrait"/>
 
-# `VISH//SYS`
+# `𝒮𝑜𝓊𝓇_𝒞𝒽𝑒𝓇𝓇𝓎(✿◕‿◕✿)`
+
+<p align="center">
+  <a href="https://github.com/Gannn11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=600&height=40&lines=%3E+INITIALIZING+VISH%2F%2FSYS+v2.6...;%3E+AI+%26+SYSTEMS+BUILDER;%3E+EXPLORING+LLMS%2C+RAG+%26+NEURAL+PIPELINES;%3E+STATUS%3A+BUILDING+NEXT-GEN+APPLICATIONS_" alt="Terminal Typist" />
+  </a>
+</p>
 
 
-<h2 align="center"> &gt; ABOUT_ME.exe </h2>
+<h2 align="center">&gt; 𝓐𝓫𝓸𝓾𝓽_𝓜𝓮</h2>
 
 <div align="center">
 
@@ -21,7 +27,7 @@
 ### `IDENTITY.log`
 
 ```text
-NAME       : Vishvesh Raj Gupta
+NAME       : Vishvesh R.Gupta
 INSTITUTE  : IIIT Nagpur
 BRANCH     : CSE (AI)
 SESSION    : 2025–2029
@@ -44,12 +50,12 @@ SESSION    : 2025–2029
 </tr>
 </table>
 
-### `CURRENT_DIRECTIVES`
+### `𝒞𝓊𝓇𝓇𝑒𝓃𝓉_𝒟𝒾𝓇𝑒𝒸𝓉𝒾𝓋𝑒𝓈`
 
 - [x] Learn programming fundamentals
 - [x] Build web development projects
-- [ ] Strengthen machine learning foundations
-- [ ] Build practical LLM and RAG applications
+- [x] Strengthen machine learning foundations
+- [x] Build practical LLM and RAG applications
 - [ ] Deploy projects and document experiments
 
 <p align="center">
