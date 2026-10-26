@@ -74,21 +74,11 @@ SESSION    : 2025–2029
 
 ---
 
-## `01 // IDENTITY_SCAN`
+## 01 // CONTRIBUTION_GRID_SNK
 
-```text
-[ SYSTEM BOOT ................. OK ]
-[ IDENTITY MODULE ............. OK ]
-[ AI RESEARCH MODULE .......... ACTIVE ]
-
-USER          : VISH
-INSTITUTE     : IIIT NAGPUR
-DISCIPLINE    : COMPUTER SCIENCE
-SPECIALIZATION: ARTIFICIAL INTELLIGENCE
-MISSION       : BUILD INTELLIGENT SYSTEMS
-
-CURRENT STATE : LEARNING // EXPERIMENTING
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gannn11/Gannn11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## `02 // TECHNOLOGY_MODULES`
 
