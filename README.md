@@ -145,13 +145,25 @@ Planned experiments in LLMs, retrieval-augmented generation, and practical AI sy
 
 ## `04 // GITHUB_TELEMETRY`
 
+
+<h2 align="center">&gt; SYSTEM_TELEMETRY</h2>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Genne13&show_icons=true&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9&icon_color=58FF9B" alt="GitHub statistics"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Genne13&show_icons=true&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9&icon_color=58FF9B"
+  height="165"
+  alt="GitHub activity statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genne13&layout=compact&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9" alt="Most-used languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genne13&layout=compact&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9"
+  height="165"
+  alt="Most-used programming languages"
+/>
 
 </div>
+
 
 ## `05 // SYSTEM_LOG`
 
