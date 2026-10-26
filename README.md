@@ -18,6 +18,16 @@
 
 ---
 
+
+<p align="center">
+  <img
+    src="assets/orbital-mechanism.svg"
+    alt="The Arcane Machine celestial mechanism"
+    width="100%"
+  />
+</p>
+
+
 <p align="center">
   <sub>ARCHIVE 001 / THE ENGINEER / EST. 2026</sub>
 </p>
