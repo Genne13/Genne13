@@ -83,8 +83,11 @@ SESSION    : 2025–2029
 ## `02 // TECHNOLOGY_MODULES`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Technology stack"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,tailwind,git,github,vscode,docker,linux&theme=dark&perline=7" />
+  </a>
 </p>
+
 
 ```text
 [CORE]       Programming fundamentals
