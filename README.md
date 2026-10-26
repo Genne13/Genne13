@@ -1,135 +1,115 @@
- <div align="center">
 
-<img src="assets/arcane-machine.svg" alt="The Arcane Machine — mechanical engineering archive" width="100%">
+<div align="center">
 
-<br>
+<img src="assets/vish-terminal.png" width="100%" alt="VISH cyberpunk terminal portrait"/>
 
-# VISHVESH RAJ GUPTA
+# `VISH//SYS`
 
-**COMPUTER SCIENCE · ARTIFICIAL INTELLIGENCE**
+**COMPUTER SCIENCE × ARTIFICIAL INTELLIGENCE**
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=18&duration=3500&pause=900&color=C6A66B&center=true&vCenter=true&width=700&lines=Studying+the+machinery+of+intelligence;Building+systems%2C+one+experiment+at+a+time;Exploring+Machine+Learning+%26+Generative+AI" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=650&color=00F5D4&center=true&vCenter=true&width=650&lines=%3E+Booting+VISH%2F%2FSYS...;%3E+Loading+AI+development+modules...;%3E+Exploring+LLMs+%26+Generative+AI;%3E+Building+systems.+Learning+continuously._" alt="Animated terminal boot sequence"/>
 
-[GitHub](https://github.com/Genne13) · [LinkedIn](https://www.linkedin.com/in/vishvesh-raj-gupta-820a58375)
-
-*Scientia. Machina. Intelligentia.*
+[![GitHub](https://img.shields.io/badge/GitHub-050A0E?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/Genne13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/vishvesh-raj-gupta-820a58375)
 
 </div>
 
 ---
 
+## `01 // IDENTITY_SCAN`
+
+```text
+[ SYSTEM BOOT ................. OK ]
+[ IDENTITY MODULE ............. OK ]
+[ AI RESEARCH MODULE .......... ACTIVE ]
+
+USER          : VISH
+INSTITUTE     : IIIT NAGPUR
+DISCIPLINE    : COMPUTER SCIENCE
+SPECIALIZATION: ARTIFICIAL INTELLIGENCE
+MISSION       : BUILD INTELLIGENT SYSTEMS
+
+CURRENT STATE : LEARNING // EXPERIMENTING
+```
+
+## `02 // TECHNOLOGY_MODULES`
 
 <p align="center">
-  <img
-    src="assets/orbital-mechanism.svg"
-    alt="The Arcane Machine celestial mechanism"
-    width="100%"
-  />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Technology stack"/>
 </p>
 
+```text
+[CORE]       Programming fundamentals
+[WEB]        Frontend development
+[AI/ML]      Machine learning foundations
+[GENAI]      LLMs, RAG and generative systems
+```
 
-<p align="center">
-  <sub>ARCHIVE 001 / THE ENGINEER / EST. 2026</sub>
-</p>
+## `03 // PROJECT_DATABASE`
 
-## I. THE ENGINEER
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am a Computer Science undergraduate specializing in Artificial Intelligence at the Indian Institute of Information Technology Nagpur.
+### `PROJECT_001`
 
-My interests lie at the intersection of machine learning, generative systems, and the engineering principles behind intelligent software.
+**MovieVerse**
 
-I believe in understanding the machinery beneath the interface: the mathematics, the algorithms, the data, and the systems that make software work.
+Movie discovery web application exploring search, recommendations, trailers and watchlists.
 
-- **Primary direction:** Machine Learning and Generative AI
-- **Exploring:** Large Language Models, retrieval systems, and intelligent applications
-- **Engineering philosophy:** Fundamentals first. Experiments second. Reliable systems always.
+[ACCESS REPOSITORIES](https://github.com/Genne13?tab=repositories)
 
-## II. THE TECHNICAL ARSENAL
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-C6A66B?style=flat-square&logo=python&logoColor=17191C" alt="Python">
-  <img src="https://img.shields.io/badge/C-55504A?style=flat-square&logo=c&logoColor=E8E0D0" alt="C">
-  <img src="https://img.shields.io/badge/Java-C6A66B?style=flat-square&logo=openjdk&logoColor=17191C" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-55504A?style=flat-square&logo=javascript&logoColor=E8E0D0" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-C6A66B?style=flat-square&logo=html5&logoColor=17191C" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-55504A?style=flat-square&logo=css3&logoColor=E8E0D0" alt="CSS3">
-</p>
+### `PROJECT_002`
 
-<p align="center">
-  <sub>RESEARCH DOMAINS</sub><br><br>
-  <img src="https://img.shields.io/badge/Machine_Learning-17191C?style=flat-square&logoColor=C6A66B" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Generative_AI-17191C?style=flat-square&logoColor=C6A66B" alt="Generative AI">
-  <img src="https://img.shields.io/badge/LLMs-17191C?style=flat-square&logoColor=C6A66B" alt="Large Language Models">
-  <img src="https://img.shields.io/badge/Computer_Science-17191C?style=flat-square&logoColor=C6A66B" alt="Computer Science">
-</p>
+**CRISPR Timeline**
 
-*The research-domain labels describe my learning interests, not claims of professional mastery.*
+A science-focused project exploring the history and milestones of CRISPR technology.
 
-## III. THE LABORATORY
+[ACCESS REPOSITORIES](https://github.com/Genne13?tab=repositories)
 
-<p align="center">
-  <sub>SELECTED EXPERIMENTS / SOFTWARE / RESEARCH</sub>
-</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### EXP-001 · CRISPR Timeline
+### `PROJECT_003 // IN DEVELOPMENT`
 
-An educational project exploring the timeline of CRISPR technology and its scientific development.
+**Generative Systems Lab**
 
-**Focus:** Scientific communication · Web development
+A planned learning track for practical applications involving language models, retrieval-augmented generation, and generative AI.
 
-[Explore my repositories →](https://github.com/Genne13?tab=repositories)
+`STATUS: PLANNED`
 
-### EXP-002 · MovieVerse
+</td>
+</tr>
+</table>
 
-A movie-discovery application built around movie data, search, recommendations, and watchlist functionality.
+## `04 // GITHUB_TELEMETRY`
 
-**Focus:** JavaScript · API integration · Frontend development
+<div align="center">
 
-[Explore my repositories →](https://github.com/Genne13?tab=repositories)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Genne13&show_icons=true&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9&icon_color=58FF9B" alt="GitHub statistics"/>
 
-### EXP-003 · The Generative Systems Lab
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genne13&layout=compact&hide_border=true&bg_color=050A0E&title_color=00F5D4&text_color=C9D1D9" alt="Most-used languages"/>
 
-A growing collection of experiments in machine learning and Generative AI, progressing from fundamentals to practical LLM-powered applications.
+</div>
 
-**Planned research areas:** Embeddings · Retrieval-Augmented Generation · Evaluation · AI application engineering
+## `05 // SYSTEM_LOG`
 
-[Explore my repositories →](https://github.com/Genne13?tab=repositories)
+```text
+[+] Exploring computer science
+[+] Developing software projects
+[+] Learning machine learning
+[+] Working toward practical GenAI systems
 
-> Project descriptions should be updated to match each repository's actual implementation. Link each title directly to its repository when ready.
+END OF TRANSMISSION_
+```
 
-## IV. THE INSTRUMENT PANEL
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Genne13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6A66B&icon_color=C6A66B&text_color=E8E0D0&rank_icon=github" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genne13&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A66B&text_color=E8E0D0&langs_count=6" alt="Most-used programming languages">
-</p>
+<sub>DESIGNED IN TERMINAL MODE · VISH//SYS</sub>
 
-<p align="center">
-  <sub>Contribution history · generated from GitHub activity</sub>
-</p>
-
-<p align="center">
-  <img src="output/github-snake-dark.svg" alt="Animated GitHub contribution graph">
-</p>
-
-## V. CURRENT RESEARCH NOTES
-
-- Strengthening programming and computer science fundamentals.
-- Studying machine learning concepts and model evaluation.
-- Exploring how LLMs, embeddings, and retrieval can support useful applications.
-- Documenting experiments with reproducible code and clear explanations.
-
-## VI. THE PRINCIPLE
-
-> A machine is understood not by its appearance, but by the precision of its workings.
-
-I aim to build projects that are visually considered, technically grounded, and useful beyond a demonstration.
-
----
-
-<p align="center">
-  <img src="assets/experiment-divider.svg" alt="Decorative mechanical divider" width="100%">
-  <br><br>
-  <sub>THE ARCANE MACHINE · ENGINEERING ARCHIVE 001</sub><br>
-  <sub>Designed with precision. Built through experimentation.</sub>
-</p>
+</div>
