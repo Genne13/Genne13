@@ -99,45 +99,49 @@ CURRENT STATE : LEARNING // EXPERIMENTING
 
 ## `03 // PROJECT_DATABASE`
 
+
+<h2 align="center">&gt; PROJECT_DATABASE.db</h2>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `PROJECT_001`
+### `MODULE_01 // MOVIEVERSE`
 
-**MovieVerse**
+**Type:** Web application
 
-Movie discovery web application exploring search, recommendations, trailers and watchlists.
+Movie discovery, search, recommendations, trailers, and watchlist features.
 
-[ACCESS REPOSITORIES](https://github.com/Genne13?tab=repositories)
+<a href="https://github.com/Genne13?tab=repositories">[ VIEW SOURCE ]</a>
 
 </td>
 <td width="50%" valign="top">
 
-### `PROJECT_002`
+### `MODULE_02 // CRISPR`
 
-**CRISPR Timeline**
+**Type:** Scientific timeline
 
-A science-focused project exploring the history and milestones of CRISPR technology.
+A project exploring CRISPR technology and its scientific milestones.
 
-[ACCESS REPOSITORIES](https://github.com/Genne13?tab=repositories)
+<a href="https://github.com/Genne13?tab=repositories">[ VIEW SOURCE ]</a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-### `PROJECT_003 // IN DEVELOPMENT`
+### `MODULE_03 // GENERATIVE_SYSTEMS`
 
-**Generative Systems Lab**
+**Type:** Generative AI learning track
 
-A planned learning track for practical applications involving language models, retrieval-augmented generation, and generative AI.
+Planned experiments in LLMs, retrieval-augmented generation, and practical AI systems.
 
-`STATUS: PLANNED`
+`STATUS: PLANNING`
 
 </td>
 </tr>
 </table>
+
 
 ## `04 // GITHUB_TELEMETRY`
 
