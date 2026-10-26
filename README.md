@@ -98,48 +98,12 @@ SESSION    : 2025–2029
 
 ## `03 // PROJECT_DATABASE`
 
+| SYSTEM MODULE | ARCHITECTURE & SPECS | TELEMETRY & ACCESS |
+| :--- | :--- | :--- |
+| **`MODULE_01`**<br>### 🎬 MovieVerse | • Movie search, recommendations, trailers<br>• Tech: `React` `Tailwind` `REST APIs` | `🟢 ONLINE`<br>[Source Code ↗](https://github.com/Gannn11/MovieVerse) • [Live Demo ↗](#) |
+| **`MODULE_02`**<br>### 🧬 CRISPR Track | • Scientific genome milestone tracker<br>• Tech: `Python` `Data Visualization` | `🟣 ARCHIVE`<br>[Source Code ↗](https://github.com/Gannn11/CRISPR) |
+| **`MODULE_03`**<br>### ⚡ IP Sakti / RAG | • High-accuracy legal intelligence RAG pipeline<br>• Tech: `LangChain` `ChromaDB` `FastAPI` | `🟡 ACTIVE DEV`<br>[Source Code ↗](https://github.com/Gannn11) |
 
-<h2 align="center">&gt; PROJECT_DATABASE.db</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `MODULE_01 // MOVIEVERSE`
-
-**Type:** Web application
-
-Movie discovery, search, recommendations, trailers, and watchlist features.
-
-<a href="https://github.com/Genne13?tab=repositories">[ VIEW SOURCE ]</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `MODULE_02 // CRISPR`
-
-**Type:** Scientific timeline
-
-A project exploring CRISPR technology and its scientific milestones.
-
-<a href="https://github.com/Genne13?tab=repositories">[ VIEW SOURCE ]</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### `MODULE_03 // GENERATIVE_SYSTEMS`
-
-**Type:** Generative AI learning track
-
-Planned experiments in LLMs, retrieval-augmented generation, and practical AI systems.
-
-`STATUS: PLANNING`
-
-</td>
-</tr>
-</table>
 
 
 ## `04 // GITHUB_TELEMETRY`
@@ -174,6 +138,12 @@ Planned experiments in LLMs, retrieval-augmented generation, and practical AI sy
 
 END OF TRANSMISSION_
 ```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gannn11&style=flat-square&color=00ffcc&label=TELEMETRY_PINGS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/SECURITY-SHA256_VERIFIED-00ff88?style=flat-square&logo=git" alt="Security" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f0ff?style=flat-square" alt="Status" />
+</p>
 
 <div align="center">
 
