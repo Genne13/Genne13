@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/vish-terminal-banner.png" width="100%" alt="VISH cyberpunk terminal portrait"/>
+<img src="assets/vish-terminal.png" width="100%" alt="VISH cyberpunk terminal portrait"/>
 
 # `VISH//SYS`
 
