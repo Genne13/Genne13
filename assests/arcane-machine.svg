@@ -1,1 +1,82 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">The Arcane Machine</title>
+  <desc id="desc">An antique-gold celestial mechanism on an obsidian background.</desc>
+
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#C6A66B" stroke-opacity=".10" stroke-width=".6"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#C6A66B" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#17191C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="12" fill="#17191C"/>
+  <rect width="1200" height="320" rx="12" fill="url(#grid)"/>
+  <ellipse cx="920" cy="155" rx="245" ry="220" fill="url(#glow)"/>
+
+  <!-- Drafting frame -->
+  <g fill="none" stroke="#C6A66B" stroke-opacity=".65">
+    <path d="M24 52V24H52 M1148 24H1176V52 M24 268V296H52 M1148 296H1176V268"/>
+    <path d="M40 160H270 M930 160H1160" stroke-dasharray="3 7"/>
+  </g>
+
+  <!-- Celestial mechanism -->
+  <g transform="translate(920 158)" fill="none" stroke="#C6A66B">
+    <circle r="108" stroke-opacity=".8" stroke-width="1.2"/>
+    <circle r="92" stroke-opacity=".5" stroke-dasharray="2 6"/>
+    <circle r="72" stroke-opacity=".9"/>
+    <circle r="47" stroke-opacity=".6"/>
+    <circle r="20" stroke-opacity=".95"/>
+
+    <g stroke-opacity=".65">
+      <ellipse rx="116" ry="42" transform="rotate(-28)"/>
+      <ellipse rx="116" ry="42" transform="rotate(48)"/>
+      <ellipse rx="116" ry="42" transform="rotate(90)"/>
+    </g>
+
+    <g stroke-width="1.5">
+      <path d="M0 -130V-112 M0 112V130 M-130 0H-112 M112 0H130"/>
+      <path d="M-92 -92L-78 -78 M92 -92L78 -78 M-92 92L-78 78 M92 92L78 78"/>
+      <path d="M0 -72L20 0L0 72L-20 0Z"/>
+    </g>
+
+    <g fill="#C6A66B" stroke="none">
+      <circle cx="0" cy="-108" r="4"/>
+      <circle cx="92" cy="0" r="3"/>
+      <circle cx="-47" cy="0" r="3"/>
+      <circle cx="0" cy="0" r="5"/>
+    </g>
+
+    <!-- Subtle orbital motion; static rendering remains legible -->
+    <g>
+      <circle cx="0" cy="-92" r="4" fill="#E8E0D0" stroke="none">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0" to="360" dur="36s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Engraved identity -->
+  <g fill="#E8E0D0" font-family="Georgia, 'Times New Roman', serif">
+    <text x="64" y="116" font-size="13" letter-spacing="4" fill="#C6A66B">
+      ENGINEERING ARCHIVE / 001
+    </text>
+    <text x="60" y="163" font-size="35" letter-spacing="1.5">
+      THE ARCANE
+    </text>
+    <text x="60" y="204" font-size="35" letter-spacing="1.5">
+      MACHINE
+    </text>
+  </g>
+
+  <g fill="#C6A66B" font-family="monospace" font-size="10" letter-spacing="1.6">
+    <text x="64" y="236">MECHANICS · COMPUTATION · INTELLIGENCE</text>
+    <text x="64" y="264" fill-opacity=".7">FIG. 001 / CELESTIAL COMPUTATION</text>
+  </g>
+
+  <path d="M60 284H510" stroke="#C6A66B" stroke-opacity=".6"/>
+</svg>
+
