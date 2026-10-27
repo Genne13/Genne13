@@ -74,10 +74,10 @@ SESSION    : 2025–2029
 
 ---
 
-## 01 // CONTRIBUTION_GRID_SNK
+### 01 // CONTRIBUTION_MATRIX_TELEMETRY
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gannn11/Gannn11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Gannn11/Gannn11/output/github-snake-dark.svg" alt="Cyberpunk Snake Animation" width="100%" />
 </p>
 
 ## `02 // TECHNOLOGY_MODULES`
